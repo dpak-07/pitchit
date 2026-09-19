@@ -1,0 +1,6 @@
+{
+  "name": "Football Player Auction Platform",
+  "description": "Full-stack real-time football player auction platform with live & manual bidding modes, squad reserve rules, and host control rooms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
